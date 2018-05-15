@@ -3,10 +3,10 @@ The sub folders contain tasks of different projects.
 Each sub folder has a `README.md` file with additional information about the task
 
 ## Rock, Paper, Scissors
-### ./game/rps.py + tests.py (3 days, including learning python)
+### ./game/rps.py + tests.py (1 day)
 
 ## Parse log, caculate some statistics of bit stream rate
-### ./parser/get_stats.py (1 day)
+### ./parser/get_stats.py (0.5 day)
 
 ## Steps to work on the the project
 * Register your account on github.com if you don't have one
