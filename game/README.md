@@ -10,4 +10,5 @@ In this project you will make a Rock, Paper, Scissors game and play against the 
 - Decide game win, lose or draw, print choice of both sides
 
 ## Use python to implement the game play
-## Write some unit tests with pytest
+## Write unit tests with pytest
+"Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
