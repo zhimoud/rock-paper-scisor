@@ -16,4 +16,7 @@ Each sub folder has a `README.md` file with additional information about the tas
 * Then you can clone the project on you local computer
 * Work on the project
 * Push your work back to github
-* Create a pull request by clicking "New Pull Request" on https://github.com/your-github-username/codingfun
+* Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/codingfun, comparing changes with
+    
+    base fork: tonywgh/codingfun|base: master <- head fork: [your-github-username]/codingfun|compare: master
+    
