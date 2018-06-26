@@ -1,6 +1,5 @@
 # README
-The sub folders contain tasks of different projects.
-Each sub folder has a `README.md` file with additional information about the task
+This is a two tasks assessment test, each sub folder contains tasks of different projects, please check the `README.md` files located in each sub folder to get more details about the task.
 
 ## Rock, Paper, Scissors
 ### ./game/rps.py + tests.py (1 day)
