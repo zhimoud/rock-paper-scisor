@@ -14,8 +14,11 @@ This is a two tasks assessment test, each sub folder contains tasks of different
 * Click "Fork" button at top-right corner on the page
 * Then you can clone the project on you local computer
 * Work on the project
-* Push your work back to github
-* Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/rock-paper-scisors, comparing changes with
+* Push your work back to github to your own repository
+* Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/rock-paper-scisors
+
+Note:
+All the work has to be done on your own repo becasue we want to keep this repo clean.
     
-    base fork: zhimoud/rock-paper-scisors|base: master <- head fork: [your-github-username]/rock-paper-scisors|compare: master
+    
     
