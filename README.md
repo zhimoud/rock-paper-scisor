@@ -12,13 +12,11 @@ This is a two tasks assessment test, each sub folder contains tasks of different
 * Sign in your account on github.com
 * Go to https://github.com/zhimoud/rock-paper-scisors in the same browser
 * Click "Fork" button at top-right corner on the page
-* Then you can clone the project on you local computer
-* Work on the project
+* Create a new branch
+* Clone the project on you local computer
+* swicth to the newly created branch and write your code there
 * Push your work back to github to your own repository
 * Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/rock-paper-scisors
 
-Note:
-All the work has to be done on your own repo becasue we want to keep this repo clean.
-    
     
     
