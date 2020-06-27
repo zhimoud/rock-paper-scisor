@@ -7,7 +7,7 @@ This is a two tasks assessment test, each sub folder contains tasks of different
 ## Github rest api, total number of commits 
 ### ./github-rest-api/githut.py (0.5 day)
 ## Docker file
-You are required to Create a Dockerfile that allows us to build a docker container and execute the tool with docker run without having any dependencies other than docker installed, the following is what a user should do to run the application or tests:
+You are required to create a Dockerfile that allows us to build a docker container and execute the tool with docker run without having any dependencies other than docker installed, the following is what a user should do to run the application or tests:
 docker run -it pytest -v should execute the unit tests
 docker run -it should execute the app
 ## Steps to work on the the project
