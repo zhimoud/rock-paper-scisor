@@ -11,4 +11,4 @@ In this project you will make a Rock, Paper, Scissors game and play against the 
 
 1. Use python to implement the game play
 2. Write unit tests with pytest "Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
-3. Add at least one unit test to simulate what would happen if github returns 500
+
