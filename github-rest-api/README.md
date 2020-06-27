@@ -13,4 +13,4 @@ https://github.com/teradici/deploy. Please note that these APIs can be accessed 
 and do not require authentication. The following resources will be useful: 
 - GitHub commits API: https://developer.github.com/v3/repos/commits/ 
 - general GitHub API documentation: https://developer.github.com/v3/ 
-- Python requests library to help with making HTTP requests: http://docs.python-requests.org/en/master/
+- Python requests library to help with making HTTP requests: https://requests.readthedocs.io/en/master/
