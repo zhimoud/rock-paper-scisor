@@ -4,8 +4,8 @@ This is a two tasks assessment test, each sub folder contains tasks of different
 ## Rock, Paper, Scissors
 ### ./game/rps.py + tests.py (1 day)
 
-## Parse log, caculate some statistics of bit stream rate
-### ./parser/get_stats.py (0.5 day)
+## Github rest api, otal number of commits 
+### ./github/githut.py (0.5 day)
 
 ## Steps to work on the the project
 * Register your account on github.com if you don't have one
