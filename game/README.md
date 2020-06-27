@@ -10,9 +10,5 @@ In this project you will make a Rock, Paper, Scissors game and play against the 
 - Decide game win, lose or draw, print choice of both sides
 
 1. Use python to implement the game play
-2. Write unit tests with pytest
-"Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
-3. Create a Dockerfile that allows us to build a docker container and execute the tool with docker run without having any dependencies other than docker installed, the following is what a user should do to run the application or tests:
-   * docker run -it <container-build> pytest -v  should execute the unit tests
-   * docker run -it <container-build>  should execute the app
-4. Add at least one unit test to simulate what would happen if github returns 500
+2. Write unit tests with pytest "Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
+3. Add at least one unit test to simulate what would happen if github returns 500
