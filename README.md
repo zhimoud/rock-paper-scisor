@@ -2,10 +2,10 @@
 This is a two tasks assessment test, each sub folder contains tasks of different projects, please check the `README.md` files located in each sub folder to get more details about the task.
 
 ## Rock, Paper, Scissors
-### ./game/rps.py + tests.py (1 day)
+### ./game/rps.py + tests.py
 
 ## Github rest api, total number of commits 
-### ./github-rest-api/githut.py (0.5 day)
+### ./github-rest-api/githut.py
 ## Docker file
 You are required to create a Dockerfile that allows us to build a docker container and execute the tool with docker run without having any dependencies other than docker installed, the following is what a user should do to run the application or tests:
 docker run -it pytest -v should execute the unit tests
