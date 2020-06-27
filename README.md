@@ -17,7 +17,7 @@ You are required to create a Dockerfile that allows us to build a docker contain
 * Click "Fork" button at top-right corner on the page
 * Create a new branch
 * Clone the project on you local computer
-* swicth to the newly created branch and write your code there
+* switch to the newly created branch and write your code there
 * Push your work back to github to your own repository
 * Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/rock-paper-scisors
 
