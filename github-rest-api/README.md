@@ -3,7 +3,8 @@
 Write a script which uses GitHub’s REST API to retrieve the following information from a public, Teradici-owned GitHub repository: 
 1. Display the “Author Name” and total number of commits for the user who has made the most commits for all time 
 2. Count the number of commits which occurred during the period from June 1, 2019 – May 31, 2020 and print the total.
-3. Add at least one unit test to simulate what would happen if github returns 500
+3. Write unit tests with pytest "Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
+4. Add at least one unit test to simulate what would happen if github returns 500
 
 The above information must be retrieved from the GitHub repository at 
 https://github.com/teradici/deploy. Please note that these APIs can be accessed anonymously 
