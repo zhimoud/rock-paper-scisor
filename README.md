@@ -21,5 +21,14 @@ You are required to create a Dockerfile that allows us to build a docker contain
 * Push your work back to github to your own repository
 * Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/rock-paper-scisors
 
+## What we are looking for
+* Working application 
+* Clean and structured code
+* Maintainability and readability
+* Comments
+* Modularity
+
+
+
     
     
