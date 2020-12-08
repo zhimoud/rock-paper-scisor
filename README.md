@@ -19,8 +19,9 @@ You are required to create a Dockerfile that allows us to build a docker contain
 
 ## How to submit your application
 Please use one of the following methods to share your solution with us:
-   * The preferred way is to create a repo on github or gitlab and 
+   * The preferred way is to create a repo on github or gitlab and share the link with us
    * Zip all your solution and send it to us via email
+   * Share it using google drive or something similar
 
 ## What we are looking for
 * Clean, maintainable and working code 
