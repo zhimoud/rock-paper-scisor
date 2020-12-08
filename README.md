@@ -1,34 +1,33 @@
-# README
-This is a two tasks assessment test, each sub folder contains tasks of different projects, please check the `README.md` files located in each sub folder to get more details about the task.
+# Game: Rock, Paper, Scissors
+In this project you will make a Rock, Paper, Scissors game and play against the computer. The winner is decided by these rules:
 
-## Rock, Paper, Scissors
-### ./game/rps.py + tests.py
+* Rock blunts scissors
+* Paper covers rock
+* Scissors cut paper
 
-## Github rest api, total number of commits 
-### ./github-rest-api/githut.py
+- First, let the player choose Rock, Paper or Scissors by typing the letter ‘r’, ‘p’ or ‘s’;
+- Then computers turn;
+- Decide game win, lose or draw, print choice of both sides
+
+1. Use python to implement the game play
+2. Write unit tests with pytest "Pytest is a mature full-featured Python testing tool that helps you write better programs" - https://docs.pytest.org/en/latest/
+
 ## Docker file
 You are required to create a Dockerfile that allows us to build a docker container and execute the tool with docker run without having any dependencies other than docker installed, the following is what a user should do to run the application or tests:
-   * docker run -it pytest -v should execute the unit tests
-   * docker run -it should execute the app
-## Steps to work on the the project
-* Register your account on github.com if you don't have one
-* Sign in your account on github.com
-* Go to https://github.com/zhimoud/rock-paper-scisors in the same browser
-* Click "Fork" button at top-right corner on the page
-* Create a new branch
-* Clone the project on you local computer
-* switch to the newly created branch and write your code there
-* Push your work back to github to your own repository
-* Create a pull request by clicking "New pull request" on https://github.com/[your-github-username]/rock-paper-scisors
+   * docker run -it pytest -v    should execute the unit tests
+   * docker run -it              should execute the app
+
+## How to submit your application
+Please use one of the following methods to share your solution with us:
+   * The preferred way is to create a repo on github or gitlab and 
+   * Zip all your solution and send it to us via email
 
 ## What we are looking for
-* Working application 
-* Clean and structured code
-* Maintainability and readability
-* Comments
-* Modularity
-
-
+* Clean, maintainable and working code 
+* Comments if/where appropriate
+* Ability to write unit tests and mock external services
+* Ability to use and deploy in containers
+* Readme file describing how to run the application and unit tests
 
     
     
